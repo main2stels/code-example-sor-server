@@ -1,0 +1,15 @@
+/.vs/siberianoilrush-server/v15/Server/sqlite3
+/.vs/siberianoilrush-server/v15
+/.vs
+/siberianoilrush-server/bin/Debug/netcoreapp2.1
+/DB/bin/Debug/netstandard2.0
+/siberianoilrush-server/obj
+/siberianoilrush-server/bin
+/DB/obj
+/DB/bin
+/SorResurs/obj
+/SorResurs/bin
+Server/Server/obj/
+Server/Server/bin/
+Server/NetCommon/obj/
+Server/NetCommon/bin/
